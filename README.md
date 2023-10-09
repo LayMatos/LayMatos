@@ -1,14 +1,14 @@
 ## Olá! Eu sou a Layssa Matos 👋
 
-- 🔭 Hoje trabalho com Front-end
+- 🔭 Hoje trabalho com Mobile
 - 🌱 Estudando Flutter
 - 💬 Contate-me: layssamatos85@gmail.com
-- 😄 Pronouns: Ela/Dela
+- 🧠 Em constante aprendizado...
 
 <div align="center">
-  <a href="https://github.com/LayssaMatos29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LayssaMatos29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayssaMatos29&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/LayMatos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LayMatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayMatos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
