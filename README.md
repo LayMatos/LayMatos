@@ -46,7 +46,7 @@ Construo interfaces modernas, apps mobile e soluções full stack — do layout 
       <a href="https://github.com/LayMatos/espacodacrianca_site">📂 Repositório</a>
     </td>
     <td width="50%" valign="top">
-      <h4>✨ Smart Design</h4>
+      <h4>✨Smart Design</h4>
       <p>Landing page com identidade visual refinada e animações.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
