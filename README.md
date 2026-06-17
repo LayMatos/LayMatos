@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=180&section=header&text=Layssa%20Matos&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Front-end%20%7C%20Mobile%20%7C%20Full%20Stack%20%7C%20Data&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Sistemas;Front-end+%26+UI+com+React+%26+TypeScript;Mobile+com+Flutter+%26+React+Native;Back-end+com+Python%2C+PHP+%26+Node.js;Transformando+dados+em+decis%C3%B5es)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Sistemas;Front-end+%26+UI+com+React+%26+TypeScript;Mobile+com+Flutter+%26+React+Native;Back-end+com+Python%2C+PHP+%26+Laravel;Transformando+dados+em+decis%C3%B5es)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,9 +23,9 @@ Construo interfaces modernas, apps mobile e soluções full stack — do layout 
 
 | Área | Stack & foco |
 |:---:|:---|
-| **Front-end** | React, TypeScript, Next.js, Tailwind CSS, UI/UX responsivo |
+| **Front-end** | React, TypeScript, Tailwind CSS, UI/UX responsivo |
 | **Mobile** | Flutter, React Native, Dart |
-| **Back-end** | Python, PHP, Laravel, Node.js |
+| **Back-end** | Python, PHP, Laravel |
 | **Dados** | Dashboards, análise exploratória, visualização de dados |
 | **Deploy** | Vercel, GitHub Actions, CI/CD |
 
@@ -111,7 +111,7 @@ Construo interfaces modernas, apps mobile e soluções full stack — do layout 
 
 **Mobile & Back-end**
 <br><br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,python,php,laravel,java" alt="Mobile e Back-end"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,php,laravel" alt="Mobile e Back-end"/>
 
 <br><br>
 
