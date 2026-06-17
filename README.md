@@ -136,15 +136,6 @@ Construo interfaces modernas, apps mobile e soluções full stack — do layout 
 
 </div>
 
----
-
-### Contribuições
-
-<div align="center">
-
-![Snake animation](https://github.com/LayMatos/LayMatos/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
